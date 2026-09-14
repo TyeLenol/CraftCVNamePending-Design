@@ -1,0 +1,10 @@
+{
+  "description": "Collaboratively design unique, professional CV styles by planning typography, color palettes, and button styles with real-time feedback and reference images.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
